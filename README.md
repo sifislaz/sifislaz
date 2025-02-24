@@ -2,7 +2,10 @@
 I am Iosif and I am an Electrical and Computer Engineering graduate from University of Patras.  
 I am currently exploring the Data Science world, along with my military service.
 
-If you want to hit me up, reach out to my [LinkedIn profile](https://www.linkedin.com/in/iosif-lazanakis/).
+If you want to hit me up, reach out to:
+* [LinkedIn](https://www.linkedin.com/in/iosif-lazanakis)
+* [Email](mailto:jlazanakis@gmail.com)
+* [Phone](callto:+306983464657)
 
 
 <!--
