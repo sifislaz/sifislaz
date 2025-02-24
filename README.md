@@ -1,4 +1,10 @@
-## Hi there 👋
+## Iosif Lazanakis
+<hr>
+I am Iosif and I am an Electrical and Computer Engineering graduate from University of Patras.
+I am currently exploring the Data Science world, along with my military service.
+
+If you want to hit me up, reach out to my [LinkedIn profile](https://www.linkedin.com/in/iosif-lazanakis/).
+
 
 <!--
 **sifislaz/sifislaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
