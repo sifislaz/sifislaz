@@ -1,5 +1,4 @@
 ## Iosif Lazanakis
-<hr>
 I am Iosif and I am an Electrical and Computer Engineering graduate from University of Patras.
 I am currently exploring the Data Science world, along with my military service.
 
