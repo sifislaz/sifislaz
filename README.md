@@ -6,6 +6,7 @@ If you want to hit me up, reach out to:
 * [LinkedIn](https://www.linkedin.com/in/iosif-lazanakis)
 * [Email](mailto:jlazanakis@gmail.com)
 * Viber, WhatsApp, Signal: +306983464657
+* Discord: sifislaz
 
 
 <!--
