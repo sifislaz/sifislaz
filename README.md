@@ -5,7 +5,7 @@ I am currently exploring the Data Science world, along with my military service.
 If you want to hit me up, reach out to:
 * [LinkedIn](https://www.linkedin.com/in/iosif-lazanakis)
 * [Email](mailto:jlazanakis@gmail.com)
-* [Phone](callto:+306983464657)
+* Viber, WhatsApp, Signal: +306983464657
 
 
 <!--
